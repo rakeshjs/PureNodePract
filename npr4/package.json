@@ -1,0 +1,14 @@
+{
+  "name": "npr4",
+  "version": "1.0.0",
+  "description": "test program",
+  "main": "testProg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rakesh JS",
+  "license": "ISC",
+  "dependencies": {
+    "npr3": "3.0.0"
+  }
+}
